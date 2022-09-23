@@ -20,7 +20,7 @@ opencv-python==4.4.0.42
 opt-einsum==3.3.0
 pandas==1.1.2
 Pillow==7.2.0
-protobuf==3.13.0
+protobuf==3.18.3
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
